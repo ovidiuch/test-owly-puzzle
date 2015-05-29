@@ -1,1 +1,1 @@
-window.renderBlocks=function(a){for(var b;b=a.shift();)document.getElementById("puzzle").appendChild(b())},window.getImagePath=function(a){return"http://51085c8f4bf2bb7161f6-f6f8dd24f6daa8e8ef64655ee32d7f6c.r96.cf2.rackcdn.com/"+md5(a)+".jpg"};
+window.renderBlocks=function(a){for(var b;b=a.shift();)document.getElementById("puzzle").appendChild(b())},window.getImagePath=function(a){return"http://62b6c2e361be8ca64e06-64f0f364a7d6fad783bc7e9621a7fc64.r56.cf2.rackcdn.com/"+md5(a)+".jpg"};
